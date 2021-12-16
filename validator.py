@@ -15,4 +15,4 @@ def summa(a,b):
     print(c)
 
 
-summa(2,3)
+summa(3,3)
